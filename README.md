@@ -48,4 +48,4 @@ Technical Lead working at Nando's UK. Javascript lover years of experience in So
 
 ### Badges
 
-<a href="https://github.com/deck1187hw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deck1187hw&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/miguelpuiggarcia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpuiggarcia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
