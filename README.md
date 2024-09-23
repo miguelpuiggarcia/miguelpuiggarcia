@@ -1,10 +1,10 @@
 Hi 👋 My name is Miguel Puig
 ============================
 
-Technical Lead
+Engineering Lead
 ---------------
 
-Technical Lead working at Nando's UK. Javascript lover years of experience in Software Development and Developer Advocacy.
+Head of Engineering working at Nando's UK. Javascript lover years of experience in Software Development and Developer Advocacy.
 
 👷 [Alternative Personal Github](https://github.com/deck1187hw)
 
